@@ -1,3 +1,5 @@
+#pragma GCC diagnostic warning "-Wall"
+
 #include "NiftySSD1322.h"
 
 void NiftySSD1322::writeCmd(uint8_t c)
